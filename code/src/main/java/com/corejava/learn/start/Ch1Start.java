@@ -3,6 +3,11 @@ package com.corejava.learn.start;
 public class Ch1Start {
     public static void main(String[] args) {
 
-        System.out.println("this is ch1");
+        System.out.println("Hello World ！");
+        //....
+        /*
+
+
+        */
     }
 }
